@@ -1,0 +1,8 @@
+# 此文件用于定义项目依赖
+
+opencv-python
+pillow
+imageio
+requests
+PyQt5
+# PyInstaller # 用于打包，开发时可选 
